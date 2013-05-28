@@ -7,21 +7,21 @@ CND_BASEDIR=`pwd`
 CND_BUILDDIR=build
 CND_DISTDIR=dist
 # Debug configuration
-CND_PLATFORM_Debug=Cygwin_4.x-Windows
-CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
+CND_PLATFORM_Debug=GNU-Linux-x86
+CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
 CND_ARTIFACT_NAME_Debug=compression_lzw
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/compression_lzw
-CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/compression_lzw
+CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
 CND_PACKAGE_NAME_Debug=compressionlzw.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/compressionlzw.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/compressionlzw.tar
 # Release configuration
-CND_PLATFORM_Release=Cygwin_4.x-Windows
-CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
+CND_PLATFORM_Release=GNU-Linux-x86
+CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
 CND_ARTIFACT_NAME_Release=compression_lzw
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/compression_lzw
-CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/compression_lzw
+CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
 CND_PACKAGE_NAME_Release=compressionlzw.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/compressionlzw.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/compressionlzw.tar
 #
 # include compiler specific variables
 #
